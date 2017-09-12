@@ -1,0 +1,37 @@
+main {
+	width: 700px;
+	font-family: arial, sans-serif;
+	padding: 20px 0 0 40px;
+}
+
+input {
+
+	display: inline-block;
+	padding: 10px 50px 10px 50px;
+	border-radius: 15px;
+
+	background: white;
+}
+
+input:first-child{
+
+	box-shadow: 0px 0px 15px 10px #7fbdfd;
+	margin: 0 10px 0 0;
+}
+
+
+aside {
+
+margin: 0 0 0 20px;
+
+}
+
+h1 {
+
+	font-size: 80px;
+}
+
+h3 {
+
+	font-size: 40px;
+}
